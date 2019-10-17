@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefrigeratorAppPractice3", "RefrigeratorAppPractice3\RefrigeratorAppPractice3.csproj", "{A577CD85-7263-4D61-B9FB-4C24274F8A88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A577CD85-7263-4D61-B9FB-4C24274F8A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A577CD85-7263-4D61-B9FB-4C24274F8A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A577CD85-7263-4D61-B9FB-4C24274F8A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A577CD85-7263-4D61-B9FB-4C24274F8A88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49327298-F46A-464A-B5FD-185E6401F62A}
+	EndGlobalSection
+EndGlobal
